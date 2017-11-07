@@ -12,7 +12,7 @@ If you have any comments or suggestions, feel free to give me a shout [on Twitte
 
 ## Requirements
 
-In order to install my vim configurations, you have to install `git`.
+In order to install my VIM configurations, you have to install `git`.
 
 To install `git` on `Ubuntu`, you need to use `APT`: `sudo apt install git`
 
