@@ -8,6 +8,7 @@ Plugin 'editorconfig/editorconfig-vim'
 Plugin 'tomtom/tcomment_vim'
 Plugin 'yuttie/comfortable-motion.vim'
 Plugin 'terryma/vim-multiple-cursors'
+Plugin 'majutsushi/tagbar'
 
 "-------------------------------------------------------------------------------
 " fzf: A command-line fuzzy finder for vim
