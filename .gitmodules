@@ -1,0 +1,90 @@
+[submodule "vim/plugins/Vundle.vim"]
+	path = vim/plugins/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim
+[submodule "vim/plugins/ctrlp.vim"]
+	path = vim/plugins/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
+[submodule "vim/plugins/delimitMate"]
+	path = vim/plugins/delimitMate
+	url = https://github.com/Raimondi/delimitMate
+[submodule "vim/plugins/editorconfig-vim"]
+	path = vim/plugins/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "vim/plugins/emmet-vim"]
+	path = vim/plugins/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "vim/plugins/jshint2.vim"]
+	path = vim/plugins/jshint2.vim
+	url = https://github.com/Shutnik/jshint2.vim
+[submodule "vim/plugins/neocomplcache.vim"]
+	path = vim/plugins/neocomplcache.vim
+	url = https://github.com/Shougo/neocomplcache.vim
+[submodule "vim/plugins/neosnippet.vim"]
+	path = vim/plugins/neosnippet.vim
+	url = https://github.com/Shougo/neosnippet.vim
+[submodule "vim/plugins/neosnippet-snippets"]
+	path = vim/plugins/neosnippet-snippets
+	url = https://github.com/Shougo/neosnippet-snippets
+[submodule "vim/plugins/nerdtree"]
+	path = vim/plugins/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "vim/plugins/syntastic"]
+	path = vim/plugins/syntastic
+	url = https://github.com/vim-syntastic/syntastic
+[submodule "vim/plugins/syntastic-local-eslint.vim"]
+	path = vim/plugins/syntastic-local-eslint.vim
+	url = https://github.com/mtscout6/syntastic-local-eslint.vim
+[submodule "vim/plugins/vim-colors-solarized"]
+	path = vim/plugins/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "vim/plugins/vim-commentary"]
+	path = vim/plugins/vim-commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "vim/plugins/vim-css-color"]
+	path = vim/plugins/vim-css-color
+	url = https://github.com/skammer/vim-css-color
+[submodule "vim/plugins/vim-es6"]
+	path = vim/plugins/vim-es6
+	url = https://github.com/isRuslan/vim-es6
+[submodule "vim/plugins/vim-fugitive"]
+	path = vim/plugins/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "vim/plugins/vim-instant-markdown"]
+	path = vim/plugins/vim-instant-markdown
+	url = https://github.com/suan/vim-instant-markdown
+[submodule "vim/plugins/vim-indent-guides"]
+	path = vim/plugins/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides
+[submodule "vim/plugins/vim-javascript-syntax"]
+	path = vim/plugins/vim-javascript-syntax
+	url = https://github.com/jelera/vim-javascript-syntax
+[submodule "vim/plugins/vim-node"]
+	path = vim/plugins/vim-node
+	url = https://github.com/moll/vim-node
+[submodule "vim/plugins/vim-polyglot"]
+	path = vim/plugins/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
+[submodule "vim/plugins/vim-repeat"]
+	path = vim/plugins/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "vim/plugins/vim-signify"]
+	path = vim/plugins/vim-signify
+	url = https://github.com/mhinz/vim-signify
+[submodule "vim/plugins/vim-surround"]
+	path = vim/plugins/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "vim/plugins/webapi-vim"]
+	path = vim/plugins/webapi-vim
+	url = https://github.com/mattn/webapi-vim
+[submodule "vim/plugins/tabular"]
+	path = vim/plugins/tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "vim/plugins/tcomment_vim"]
+	path = vim/plugins/tcomment_vim
+	url = https://github.com/tomtom/tcomment_vim
+[submodule "vim/plugins/vim-unimpaired"]
+	path = vim/plugins/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired
+[submodule "vim/plugins/gruvbox"]
+	path = vim/plugins/gruvbox
+	url = https://github.com/morhetz/gruvbox
