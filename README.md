@@ -1,6 +1,6 @@
 # VIM Setup
 
-![](http://i.imgur.com/AQSIXwj.gif)
+![vim](vim.gif)
 
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/9xfHBCXLLneQfkK8qiHeHcLd/nicholasadamou/vim-setup'>
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/9xfHBCXLLneQfkK8qiHeHcLd/nicholasadamou/vim-setup.svg' />
