@@ -26,7 +26,9 @@ To setup `VIM` to look like what is seen in the above image run the following co
 
 1. `cd $HOME && git clone https://github.com/nicholasadamou/vim-setup.git && cd vim-setup/ && chmod +x install.sh && ./install.sh`
 
-The above command runs the [`install.sh`](install.sh) script. (:warning: **DO NOT** run the `setup` snippet if you don't fully
+The above command runs the [`install.sh`](install.sh) script. 
+
+(:warning: **DO NOT** run the `setup` snippet if you don't fully
 understand [what it does](install.sh). Seriously, **DON'T**!)
 
 ## Resources
