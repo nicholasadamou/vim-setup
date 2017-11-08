@@ -1,7 +1,7 @@
 " @file plugins-lang.vim
 " @brief Language-specific vim configurations.
 " @details I have some options that are language specific, but not related to
-" a specific plugin.  This is where they live.  Also check leader.vim for
+" a specific plugin. This is where they live. Also check leader.vim for
 " potential filetype-only configs.
 "===============================================================================
 

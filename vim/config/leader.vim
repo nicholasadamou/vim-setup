@@ -1,7 +1,7 @@
 " @file leader.vim
 " @brief Shortcuts that have been mapped to leader key.
 " @details Every shortcut I've mapped to a leader key, including those in
-" a plugin, should live in here.  If a mapping is plugin specific, that should
+" a plugin, should live in here. If a mapping is plugin specific, that should
 " be noted.
 "===============================================================================
 
