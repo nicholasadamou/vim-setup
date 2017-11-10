@@ -6,6 +6,12 @@
 set number
 set ruler
 
+" Set encoding to UTF-8 to show glyphs
+set encoding=utf8           
+
+" Set Vim font to a Nerd Font
+set guifont=Hack\ Nerd\ Font\ 11
+
 if has("autocmd")
     filetype plugin indent on
     "           │     │    └──── Enable file type detection.
