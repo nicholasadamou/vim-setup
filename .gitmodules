@@ -88,3 +88,6 @@
 [submodule "vim/plugins/gruvbox"]
 	path = vim/plugins/gruvbox
 	url = https://github.com/morhetz/gruvbox
+[submodule "vim\\plugins\\webapi-vim"]
+	path = vim\\plugins\\webapi-vim
+	url = https://github.com/mattn/webapi-vim.git

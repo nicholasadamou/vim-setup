@@ -11,6 +11,7 @@ Plugin 'tpope/vim-surround'
 Plugin 'yuttie/comfortable-motion.vim'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'majutsushi/tagbar'
+Plugin 'mattn/webapi-vim'
 
 "-------------------------------------------------------------------------------
 " fzf: A command-line fuzzy finder for vim
