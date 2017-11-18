@@ -10,9 +10,6 @@
 [submodule "vim/plugins/editorconfig-vim"]
 	path = vim/plugins/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim
-[submodule "vim/plugins/emmet-vim"]
-	path = vim/plugins/emmet-vim
-	url = https://github.com/mattn/emmet-vim
 [submodule "vim/plugins/jshint2.vim"]
 	path = vim/plugins/jshint2.vim
 	url = https://github.com/Shutnik/jshint2.vim

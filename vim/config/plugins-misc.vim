@@ -2,16 +2,7 @@
 " @brief Miscellaneous other plugins.
 "===============================================================================
 
-Plugin 'tpope/vim-sensible'
 Plugin 'kien/ctrlp.vim'
-Plugin 'editorconfig/editorconfig-vim'
-Plugin 'tpope/vim-commentary'
-Plugin 'tomtom/tcomment_vim'
-Plugin 'tpope/vim-surround'
-Plugin 'yuttie/comfortable-motion.vim'
-Plugin 'terryma/vim-multiple-cursors'
-Plugin 'majutsushi/tagbar'
-Plugin 'mattn/webapi-vim'
 
 "-------------------------------------------------------------------------------
 " fzf: A command-line fuzzy finder for vim
@@ -90,23 +81,6 @@ Plugin 'jistr/vim-nerdtree-tabs'
 
 " Auto-enable
 let g:nerdtree_tabs_open_on_console_startup = 1
-
-" ----------------------------------------------------------------------
-" | Plugins - Emmet                                                    |
-" ----------------------------------------------------------------------
-Plugin 'mattn/emmet-vim'
-
-" Redefine trigger key for Emmet.
-" http://docs.emmet.io/cheat-sheet/
-
-let g:user_emmet_leader_key="<C-E>"
-
-" - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-" Load custom Emmet snippets.
-" http://docs.emmet.io/customization/snippets/
-
-" let g:user_emmet_settings = webapi#json#decode(join(readfile(expand("~/.vim/snippets/emmet.json")), "\n"))
 
 " ----------------------------------------------------------------------
 " | Plugins - Indent Guides                                            |

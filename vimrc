@@ -1,7 +1,5 @@
-" @file vimrc
-" @brief Installs all the other files in the config structure.
-" @author Nicholas Adamou
-" @since 7 November 2017
+" This is my .vimrc file. 
+" There are many like it, but this one is mine.
 "===============================================================================
 
 "-------------------------------------------------------------------------------
