@@ -99,3 +99,17 @@ Plugin 'itchyny/lightline.vim'
 " Always show statusbar
 set laststatus=2
 set noshowmode
+
+" set lightline to include git-branch
+let g:lightline = {
+      \ 'colorscheme': 'powerline',
+      \ 'active': {
+      \   'left': [ [ 'mode', 'paste' ],
+      \             [ 'gitbranch', 'readonly', 'filename', 'modified' ] ,
+      \             [ 'venv', 'readonly'] ]
+      \ },
+      \ 'component_function': {
+      \   'gitbranch': 'fugitive#head'
+      \    'venv': 'virtualenv#statusline'
+      \ },
+      \ }
