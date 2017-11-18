@@ -10,6 +10,9 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'junegunn/fzf.vim'
 Plugin 'junegunn/fzf'
 
+" Enable fuzzy completion
+set rtp+=/usr/local/opt/fzf
+
 " This is the default extra key bindings
 let g:fzf_action = {
   \ 'ctrl-t': 'tab split',
