@@ -72,16 +72,6 @@ Plugin 'scrooloose/nerdtree'
 " Show hidden files, since I'm often editing dotfiles
 let NERDTreeShowHidden = 1
 
-"-------------------------------------------------------------------------------
-" NERDTreeTabs: All this does it have NERDTree open by default whenever I open
-" vim, so I can just run `vim` from the shell and then use NERDTree to find my
-" files.
-"-------------------------------------------------------------------------------
-Plugin 'jistr/vim-nerdtree-tabs'
-
-" Auto-enable
-let g:nerdtree_tabs_open_on_console_startup = 0
-
 " ----------------------------------------------------------------------
 " | Plugins - Indent Guides                                            |
 " ----------------------------------------------------------------------
