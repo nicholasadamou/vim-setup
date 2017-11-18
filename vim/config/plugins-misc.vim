@@ -80,7 +80,7 @@ let NERDTreeShowHidden = 1
 Plugin 'jistr/vim-nerdtree-tabs'
 
 " Auto-enable
-let g:nerdtree_tabs_open_on_console_startup = 1
+let g:nerdtree_tabs_open_on_console_startup = 0
 
 " ----------------------------------------------------------------------
 " | Plugins - Indent Guides                                            |
