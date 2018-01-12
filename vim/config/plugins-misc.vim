@@ -7,6 +7,7 @@ Plugin 'kien/ctrlp.vim'
 "-------------------------------------------------------------------------------
 " fzf: A command-line fuzzy finder for vim
 "-------------------------------------------------------------------------------
+" see: https://github.com/junegunn/fzf#as-vim-plugin
 Plugin 'junegunn/fzf.vim'
 Plugin 'junegunn/fzf'
 
