@@ -60,7 +60,6 @@ let g:airline_powerline_fonts = 0
 " ----------------------------------------------------------------------
 " | Color Scheme                                                       |
 " ----------------------------------------------------------------------
-Plugin 'morhetz/gruvbox'
 Plugin 'altercation/vim-colors-solarized'
 
 " Enable full-color support.
@@ -86,7 +85,7 @@ endif
 " we put it into a try-catch
 try
     " A nice dark color scheme that's easy on the eyes
-    colorscheme gruvbox
+    colorscheme solarized
 catch
     " Don't do anything, just supress the 'colorscheme doesn't exist' error.
 endtry
