@@ -53,7 +53,7 @@ let g:syntastic_mode_map = {
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 
-let g:airline_theme='gruvbox'
+let g:airline_theme='solarized'
 
 let g:airline_powerline_fonts = 0
 
