@@ -82,7 +82,6 @@ let g:nord_cursor_line_number_background = 1
 " Enables uniform activate- and inactive status
 let g:nord_uniform_status_lines = 1
 
-
 " Set custom configurations for when the
 " Solarized theme is used from Vim's Terminal mode.
 "
