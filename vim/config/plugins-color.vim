@@ -98,7 +98,7 @@ endif
 " we put it into a try-catch
 try
     " A nice dark color scheme that's easy on the eyes
-    colorscheme solarized
+    colorscheme nord
 catch
     " Don't do anything, just supress the 'colorscheme doesn't exist' error.
 endtry
