@@ -2,7 +2,9 @@
 " @brief Miscellaneous other plugins.
 "===============================================================================
 
-Plugin 'kien/ctrlp.vim'
+Plugin 'ctrlpvim/ctrlp.vim'
+Plugin 'wincent/command-t'
+Plugin 'mbbill/undotree'
 
 "-------------------------------------------------------------------------------
 " fzf: A command-line fuzzy finder for vim
@@ -72,6 +74,7 @@ augroup END
 " NERDTree: Shows a file-system tree in a sidebar.
 "-------------------------------------------------------------------------------
 Plugin 'scrooloose/nerdtree'
+Plugin 'xuyuanp/nerdtree-git-plugin'
 
 " Show hidden files, since I'm often editing dotfiles
 let NERDTreeShowHidden = 1

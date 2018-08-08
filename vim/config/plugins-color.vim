@@ -53,14 +53,14 @@ let g:syntastic_mode_map = {
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 
-let g:airline_theme='solarized'
+let g:airline_theme='base16_nord'
 
 let g:airline_powerline_fonts = 0
 
 " ----------------------------------------------------------------------
 " | Color Scheme                                                       |
 " ----------------------------------------------------------------------
-Plugin 'altercation/vim-colors-solarized'
+Plugin 'arcticicestudio/nord-vim'
 
 " Enable full-color support.
 set t_Co=256
@@ -68,6 +68,19 @@ set t_Co=256
 " Use colors that look good
 " on a dark background.
 set background=dark
+
+" Enable italics
+let g:nord_italic = 1
+let g:nord_italic_comments = 1
+
+" Enable underlines
+let g:nord_underline = 1
+
+" Enables background for the line number of the current line
+let g:nord_cursor_line_number_background = 1
+
+" Enables uniform activate- and inactive status
+let g:nord_uniform_status_lines = 1
 
 " Set custom configurations for when the
 " Solarized theme is used from Vim's Terminal mode.
