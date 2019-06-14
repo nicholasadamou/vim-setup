@@ -60,7 +60,7 @@ let g:airline_powerline_fonts = 0
 " ----------------------------------------------------------------------
 " | Color Scheme                                                       |
 " ----------------------------------------------------------------------
-Plugin 'arcticicestudio/nord-vim'
+Plugin 'ayu-theme/ayu-vim'
 
 " Enable full-color support.
 set t_Co=256
@@ -69,36 +69,17 @@ set t_Co=256
 " on a dark background.
 set background=dark
 
-" Enable italics
-let g:nord_italic = 1
-let g:nord_italic_comments = 1
+" set ayu theme to 'mirage'
+let ayucolor="mirage"
 
-" Enable underlines
-let g:nord_underline = 1
-
-" Enables background for the line number of the current line
-let g:nord_cursor_line_number_background = 1
-
-" Enables uniform activate- and inactive status
-let g:nord_uniform_status_lines = 1
-
-" Set custom configurations for when the
-" Solarized theme is used from Vim's Terminal mode.
-"
-" http://ethanschoonover.com/solarized/vim-colors-solarized#advanced-configuration
-
-if !has("gui_running")
-    let g:solarized_contrast = "high"
-    let g:solarized_termcolors = 256
-    let g:solarized_termtrans = 1
-    let g:solarized_visibility = "high"
-endif
+" enable true colors support
+set termguicolors
 
 " Since the colorscheme is in a plugin, it may not always be there at first, so
 " we put it into a try-catch
 try
     " A nice dark color scheme that's easy on the eyes
-    colorscheme nord
+    colorscheme ayu
 catch
     " Don't do anything, just supress the 'colorscheme doesn't exist' error.
 endtry
