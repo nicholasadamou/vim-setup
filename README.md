@@ -1,7 +1,5 @@
 # VIM Setup
 
-![vim](vim.gif)
-
 This document describes how I set up VIM to develop the tools on that are on my Github page.
 
 If you have any comments or suggestions, feel free to give me a shout [on Twitter](https://twitter.com/nicholasadamou)!
